@@ -1,10 +1,10 @@
 <?php
 
-    $servidor = "localhost";
+    $servidor = "127.0.0.1";
     $bdname = "cadastro";
     $usuario = "root";
     $senha = "";
-
+ 
     $conexao = mysqli_connect($servidor, $usuario, $senha, $bdname);
 
     if(!$conexao)
