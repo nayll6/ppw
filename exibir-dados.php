@@ -1,6 +1,6 @@
 <?php 
 
-if (isset($_POST["acao"])){ 
+if (isset($_POST["acao"])){{
 
 $nome=$_POST["nome"]; 
 $telefone=$_POST["telefone"]; 
