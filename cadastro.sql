@@ -40,7 +40,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`nome`, `nascimento`, `email`, `senha`) VALUES
-('Nayelli Magalhães Ribeiro', '1990-11-28', 'nayellimagalhaes0@gmail.com', 'teste');
+('Nayelli Magalhães Ribeiro', '2003-04-06', 'nayellimagalhaes0@gmail.com', 'teste');
 
 --
 -- Índices para tabelas despejadas
