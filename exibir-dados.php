@@ -1,6 +1,6 @@
 <?php 
 
-if (isset($_POST["acao"])){
+if (isset($_POST["enviar"])){
 
 $nome=$_POST["nome"]; 
 $nascimento=$_POST["date"]; 
